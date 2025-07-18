@@ -8,7 +8,7 @@
 body {
     background: #1F2937;
     padding: 116px 52px;
-
+    font-family: sans-serif;
     display: flex;
     justify-content: center;
 }
